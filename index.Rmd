@@ -1,0 +1,29 @@
+---
+title: "Activity 1"
+author: "Gechun"
+date: "4/22/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Activity 1
+
+### The most useful skill I learned from the ***Political Science Data*** class is about data collection, which include:
+- Webscrapping
+- API 
+
+## Activity 2
+
+### [This is the website for this class](http://politicaldatascience.com/)
+![ ](http://politicaldatascience.com/PDS/Slides/Images/image2.png)
+
+```{r}
+fivethirtyeight::trump_twitter$text[7:10]
+
+```
+
+I know how to make a website!
+
