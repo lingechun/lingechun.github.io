@@ -1,5 +1,5 @@
 ---
-title: "Activity 1"
+title: "Class Activity"
 author: "Gechun"
 date: "4/22/2020"
 output: html_document
@@ -25,5 +25,6 @@ fivethirtyeight::trump_twitter$text[7:10]
 
 ```
 
-I know how to make a website!
+## Activity 3
+### I know how to make a website!
 
