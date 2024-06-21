@@ -17,11 +17,13 @@ author_profile: true
 <details>
 <summary><b>Abstract</b></summary>
 Framing analysis is at the core of studies in political communication. The current literature relies mainly on topic modeling and dictionary approaches to identify frames from texts. However, users cannot control desired topic outputs in unsupervised models, such as LDA and STM; moreover, the resulting groups of keywords lack semantic contexts for exploring how things are framed. Dictionary approaches also have limitations: existing ones would miss novel frames in evolving discourse, and creating new dictionaries is resource-intensive. Instead, I propose a new method that follows three steps—quote, summarize, and name—to extract frames using generative AI. I apply this method to re-examine the framing of smoking ban policy at the issue-definition stage during its diffusion across 49 US states. Compared to traditional topic models, the new method produces more semantically interpretable high-level document features and accurately identifies the use of complex frames. Empirically, this results in the discovery of meaningful subframes and reveals different patterns of coexisting frames.
+
+
 </details>
 
 
 
-**Gechun Lin**. "Using Cross-Encoders to Measure the Similarity of Short Texts in Political Science." Accept pending replication at the *American Journal of Political Science*.
+**Gechun Lin**. "Using Cross-Encoders to Measure the Similarity of Short Texts in Political Science." Accept pending replication at the *American Journal of Political Science*. [[draft](/files/papers/Cross_Encoder_manuscript.pdf)] [[appendix](/files/papers/Cross_Encoder_SI.pdf)]
 
 <details>
 <summary><b>Abstract</b></summary>
