@@ -12,6 +12,7 @@ author_profile: true
 ## Working Papers
 
 **Gechun Lin**. "Using Generative AI to Extract Emphasis Frames." 
+
 <!-- <details>
 <summary><b>Abstract</b></summary>
 
@@ -20,6 +21,7 @@ Framing analysis is at the core of studies in political communication. The curre
 </details> -->
 
 **Gechun Lin**. "Using Cross-Encoders to Measure the Similarity of Short Texts in Political Science." 
+
 <!-- <details>
 <summary><b>Abstract</b></summary>
 
