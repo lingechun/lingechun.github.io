@@ -11,7 +11,7 @@ author_profile: true
 <br>
 - Topics in Politics: Data Science and Policy (Professor Christopher Lucas), Fall 2022 
 - Quantitative Political Methodology (Professor Christopher Lucas), Spring 2021 
-- Topics in Politics: Data Science and Policy (Professor Christopher Lucas), Fall 2022
+- Quantitative Political Methodology (Professor Ted Enamorado), Fall 2020
 <br>
 
 
