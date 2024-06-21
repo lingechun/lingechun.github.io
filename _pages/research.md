@@ -23,7 +23,7 @@ Framing analysis is at the core of studies in political communication. The curre
 
 
 
-**Gechun Lin**. "Using Cross-Encoders to Measure the Similarity of Short Texts in Political Science." Accept pending replication at the *American Journal of Political Science*. [[draft](./files/papers/Cross_Encoder_manuscript.pdf)] [[appendix](files/papers/Cross_Encoder_SI.pdf)]
+**Gechun Lin**. "Using Cross-Encoders to Measure the Similarity of Short Texts in Political Science." Accept pending replication at the *American Journal of Political Science*. [[draft](./files/Cross_Encoder_manuscript.pdf)] [[appendix](files/Cross_Encoder_SI.pdf)]
 
 <details>
 <summary><b>Abstract</b></summary>
