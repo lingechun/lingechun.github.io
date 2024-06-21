@@ -9,14 +9,12 @@ author_profile: true
 
 *Undergraduate Level*
 <br>
-Topics in Politics: Data Science and Policy (Professor Christopher Lucas), Fall 2022 
-
-Quantitative Political Methodology (Professor Christopher Lucas), Spring 2021 
-
-Topics in Politics: Data Science and Policy (Professor Christopher Lucas), Fall 2022
+- Topics in Politics: Data Science and Policy (Professor Christopher Lucas), Fall 2022 
+- Quantitative Political Methodology (Professor Christopher Lucas), Spring 2021 
+- Topics in Politics: Data Science and Policy (Professor Christopher Lucas), Fall 2022
 <br>
-<br>
+
 
 *Graduate Level*
 <br>
-Quantitative Political Methodology II (Professor Jacob Montgomery), Fall 2021
+- Quantitative Political Methodology II (Professor Jacob Montgomery), Fall 2021
