@@ -15,6 +15,7 @@ Quantitative Political Methodology (Professor Christopher Lucas), Spring 2021
 
 Topics in Politics: Data Science and Policy (Professor Christopher Lucas), Fall 2022
 <br>
+<br>
 
 *Graduate Level*
 <br>
