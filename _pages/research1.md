@@ -20,27 +20,9 @@ Framing analysis is at the core of studies in political communication. The curre
 </details> -->
 
 **Gechun Lin**. "Using Cross-Encoders to Measure the Similarity of Short Texts in Political Science." 
-[[working paper](/files/papers/war_rhetoric.pdf)]
+<!-- <details>
+<summary><b>Abstract</b></summary>
 
 In many settings, scholars wish to estimate the similarity of political texts. However, the most commonly used methods in political science struggle to identify when two texts convey the same meaning as they rely too heavily on identifying words that appear in both documents. This limitation is especially salient when the underlying documents are short, an increasingly prevalent form of textual data in modern political research. Building on recent advances in computer science, I introduce to political science cross-encoders for precise estimates of semantic similarity in short texts. Scholars can use either off-the-shelf versions or build a customized model. I illustrate this approach in three examples applied to social messages generated in a telephone game, news headlines about US Supreme Court decisions, and Facebook posts from members of Congress. I show that cross-encoders, which utilize pair-level embeddings, offer superior performance across tasks relative to word-based and sentence-level embedding approaches.
-
-<!-- <details>
-<summary><b>Abstract</b></summary>
-
-
-</details> -->
-
-**Benjamin S. Noble** and Ian R. Turner. "Presidential Leadership and Strategic Legislative Polarization." [[working paper](https://osf.io/preprints/socarxiv/sa9ke)]
-
-<!-- <details>
-<summary><b>Abstract</b></summary>
-
-Presidents go public to raise issue salience, but when does this choice increase their odds of policy success versus polarize lawmakers? To consider this tradeoff, we develop a two-period model of policymaking where two pivotal legislators must agree to change policy. Their choice today becomes tomorrow's status quo. Before the vote, a president can appeal in favor of an outcome, bringing pressure from the parties' bases and tying her electoral prospects to legislative success. We find going public always expands the gridlock region, but this can help the president. When the out-party base weakly supports the president's position, both legislators move toward the president, but the co-partisan pivot moves farther, increasing polarization and success. We also introduce the logic of "defensive appeals:" going public on an aligned status quo can enforce constraint among co-partisans even while alienating the out-party. Our framework illustrates how legislative and public polarization constrain presidential appeals.
-
-</details> -->
-
-## Other Publications
-
-Zoe Ang, **Benjamin S. Noble**, and Andrew Reeves. 2021. "Public Opinion and Public Support in Crisis Management." *Oxford Research Encyclopedia of Politics*. [[publisher site](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1544)]
 
 
