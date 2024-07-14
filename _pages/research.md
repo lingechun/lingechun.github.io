@@ -8,7 +8,7 @@ redirect_from:
 
 ## Published
 
-**Gechun Lin**. Christopher Lucas 2023. "An Introduction to Neural Networks for the Social Sciences." *Oxford Handbook of Methodological Pluralism in Political Science*. Oxford University Press [[publisher site](https://academic.oup.com/edited-volume/52557/chapter-abstract/431321963?redirectedFrom=fulltext)]
+**Gechun Lin** and Christopher Lucas (2023). "An Introduction to Neural Networks for the Social Sciences." *Oxford Handbook of Methodological Pluralism in Political Science*. Oxford University Press [[publisher site](https://academic.oup.com/edited-volume/52557/chapter-abstract/431321963?redirectedFrom=fulltext)]
  
 
 
