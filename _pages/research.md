@@ -31,7 +31,7 @@ In many settings, scholars wish to estimate the similarity of political texts. H
 <br>
 
 
-Dahjin Kim, **Gechun Lin**, and Keith Schnakenberg. "Informative Campaigns, Overpromising, and Policy Bargaining." Revise and resubmit at the *Journal of Theoretical Politics*. [[draft](/files/credulity.pdf)]
+Dahjin Kim, **Gechun Lin**, and Keith Schnakenberg. "Informative Campaigns, Overpromising, and Policy Bargaining." Accept at the *Journal of Theoretical Politics*. [[draft](/files/credulity.pdf)]
 
 <details>
 <summary><b>Abstract</b></summary>
