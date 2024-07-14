@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. candidate in Political Science at Washington University in St. Louis, currently on the job market for Fall 2024.
+Hello, I am a Ph.D. candidate in Political Science at Washington University in St. Louis, currently on the academic job market.
 
 My primary field is computational social science, with a particular emphasis on the applications of cutting-edge NLP models and AI tools in measuring political concepts. My dissertation leverages the most recent advancements in large language models to address the limitations of traditional methods in estimating text similarity and conducting automated frame analysis. The innovative techniques I introduce to political scientists have broad applications in studying polarization, information transmission, and media framing.
 
