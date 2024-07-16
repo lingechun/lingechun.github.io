@@ -53,6 +53,10 @@ Though ideological differences have long been a ubiquitous feature of American p
 
 **Gechun Lin** and Benjamin Noble. "In Control but Incoherent: Institutional Power and Message Discipline in Congress." Draft available upon request.
 
+## Work in Progress
+
+**Gechun Lin**. "Media Framing of SCOTUS Decisions: do split decisions facilitate politicized coverage?"
+
 
 
 
