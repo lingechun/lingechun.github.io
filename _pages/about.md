@@ -13,5 +13,5 @@ My job market paper has been accepted by the *American Journal of Political Scie
 
 My primary field is computational social science, with a particular emphasis on the applications of cutting-edge NLP models to improve the measurement of latent political concepts. My dissertation leverages the most recent advancements in large language models and AIs to address the limitations of traditional methods in estimating text similarity and conducting automated frame analysis. The innovative techniques I introduce to political scientists have broad applications in studying polarization, media and policy framing, and legislative politics.
 
-Outside of my dissertation work, I maintain a collaborative research agenda on topics in political communication, including how the public reacts to foreign policy crises and how voter preference is communicated to politicians and affects policy outcomes.
+Outside of my dissertation work, I maintain a collaborative research agenda on topics in political communication using a multi-method approach. I have employed social media data and formal models to examine how the public reacts to foreign policy crises and how voter preference is communicated to politicians and affects policy outcomes. 
 
