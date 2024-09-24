@@ -28,12 +28,14 @@ What is the relationship between policy positions taken in campaigns and those p
 
 ## Working Papers
 
-**Gechun Lin**. "Using Generative AI to Extract Emphasis Frames." Draft available upon request. [[poster](/files/PolMeth2024_GPT.pdf)] 
+**Gechun Lin** and Benjamin Noble. "In Control but Incoherent: Institutional Power and Message Discipline in Congress." [[draft](/files/In Control but Incoherent.pdf)]
+
 <details>
 <summary><b>Abstract</b></summary>
-Framing analysis is at the core of studies in political communication. The current literature relies mainly on topic modeling and dictionary approaches to identify frames from texts. However, users cannot control desired topic outputs in unsupervised models, such as LDA and STM; moreover, the resulting groups of keywords lack semantic contexts for exploring how things are framed. Dictionary approaches also have limitations: existing ones would miss novel frames in evolving discourse, and creating new dictionaries is resource-intensive. Instead, I propose a new method that follows three steps—quote, summarize, and name—to extract frames using generative AI. I apply this method to re-examine the framing of smoking ban policy at the issue-definition stage during its diffusion across 49 US states. Compared to traditional topic models, the new method produces more semantically distinctive and coherent high-level frame features for identifying different frames. Empirically, this results in the discovery of more nuanced frames and their coexisting patterns.
+Parties build electorally-beneficial brands through legislative cohesion. But getting to "yes" often produces divisive intra-party debates as illustrated by the cliches "Democrats in Disarray" and "Republican Civil War." We argue that institutional power undermines message discipline—the ability of co-partisans to say the same things about the same issues. Congressional majorities may agree on broad goals, but individuals must compromise and promote specific legislation. Presidents place issues on the agenda co-partisans must defend. Dis-empowered parties, by contrast, can simply oppose. To test our theory, we develop a novel, text-based measure of message discipline in House and Senate floor speeches (1973-2016) using topic models and contextual embeddings. We find that non-presidential minorities exercise stronger message discipline than presidential majorities, and on-message lawmakers are less effective legislators. However, the House majority's procedural power offsets these disadvantages. Our results deepen our understanding of congressional message politics, with implications for perceived polarization and thermostatic backlash.
 </details>
 <br>
+
 
 
 Dahjin Kim, **Gechun Lin**, and William G. Nomikos. "American Twitter users have ideological differences of opinion about the War in Ukraine
@@ -45,14 +47,13 @@ Though ideological differences have long been a ubiquitous feature of American p
 </details>
 <br>
 
-
-**Gechun Lin** and Benjamin Noble. "In Control but Incoherent: Institutional Power and Message Discipline in Congress." [[draft](/files/In Control but Incoherent.pdf)]
-
+**Gechun Lin**. "Using Generative AI to Extract Emphasis Frames." Draft available upon request. [[poster](/files/PolMeth2024_GPT.pdf)] 
 <details>
 <summary><b>Abstract</b></summary>
-Parties build electorally-beneficial brands through legislative cohesion. But getting to "yes" often produces divisive intra-party debates as illustrated by the cliches "Democrats in Disarray" and "Republican Civil War." We argue that institutional power undermines message discipline—the ability of co-partisans to say the same things about the same issues. Congressional majorities may agree on broad goals, but individuals must compromise and promote specific legislation. Presidents place issues on the agenda co-partisans must defend. Dis-empowered parties, by contrast, can simply oppose. To test our theory, we develop a novel, text-based measure of message discipline in House and Senate floor speeches (1973-2016) using topic models and contextual embeddings. We find that non-presidential minorities exercise stronger message discipline than presidential majorities, and on-message lawmakers are less effective legislators. However, the House majority's procedural power offsets these disadvantages. Our results deepen our understanding of congressional message politics, with implications for perceived polarization and thermostatic backlash.
+Framing analysis is at the core of studies in political communication. The current literature relies mainly on topic modeling and dictionary approaches to identify frames from texts. However, users cannot control desired topic outputs in unsupervised models, such as LDA and STM; moreover, the resulting groups of keywords lack semantic contexts for exploring how things are framed. Dictionary approaches also have limitations: existing ones would miss novel frames in evolving discourse, and creating new dictionaries is resource-intensive. Instead, I propose a new method that follows three steps—quote, summarize, and name—to extract frames using generative AI. I apply this method to re-examine the framing of smoking ban policy at the issue-definition stage during its diffusion across 49 US states. Compared to traditional topic models, the new method produces more semantically distinctive and coherent high-level frame features for identifying different frames. Empirically, this results in the discovery of more nuanced frames and their coexisting patterns.
 </details>
 <br>
+
 
 ## Work in Progress
 
