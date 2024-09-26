@@ -25,6 +25,13 @@ What is the relationship between policy positions taken in campaigns and those p
 </details>
 <br>
 
+Dahjin Kim, **Gechun Lin**, and William G. Nomikos. "American Twitter users have ideological differences of opinion about the War in Ukraine." Accepted at the *Humanities and Social Sciences Communications*. [[draft](/files/Ukraine_Public_Opinion_manuscript.pdf)] [[appendix](/files/Ukraine_Public_Opinion_SI.pdf)]
+
+<details>
+<summary><b>Abstract</b></summary>
+Though ideological differences have long been a ubiquitous feature of American politics,  the rise of online news and social media has exacerbated divisions between groups. While existing research has documented how political preferences manifest online, relatively few studies have considered whether ideological divisions extend to discussions of foreign policy. We examine this question by analyzing nearly 2 million tweets about the war in Ukraine posted by Americans during the opening stages of the Russian invasion. We first categorize each tweet according to the user's ideological leanings estimated by the network of political accounts they follow. Then, we apply a natural language processing model specifically designed for short texts to classify the tweets into clusters that we hand code into substantive topics. We find that the topic distributions of conservative, moderate, and liberal users are substantively and statistically different. We further find that conservatives are more likely to spread some form of misinformation and that liberals are more likely to express support for Ukraine. Our paper concludes with a discussion of the implications of our findings for the conduct of U.S. foreign policy.
+</details>
+<br>
 
 ## Working Papers
 
@@ -37,15 +44,6 @@ Parties build electorally-beneficial brands through legislative cohesion. But ge
 <br>
 
 
-
-Dahjin Kim, **Gechun Lin**, and William G. Nomikos. "American Twitter users have ideological differences of opinion about the War in Ukraine
-." Revise and resubmit at the *Humanities and Social Sciences Communications*. [[draft](/files/Ukraine_Public_Opinion_manuscript.pdf)] [[appendix](/files/Ukraine_Public_Opinion_SI.pdf)]
-
-<details>
-<summary><b>Abstract</b></summary>
-Though ideological differences have long been a ubiquitous feature of American politics,  the rise of online news and social media has exacerbated divisions between groups. While existing research has documented how political preferences manifest online, relatively few studies have considered whether ideological divisions extend to discussions of foreign policy. We examine this question by analyzing nearly 2 million tweets about the war in Ukraine posted by Americans during the opening stages of the Russian invasion. We first categorize each tweet according to the user's ideological leanings estimated by the network of political accounts they follow. Then, we apply a natural language processing model specifically designed for short texts to classify the tweets into clusters that we hand code into substantive topics. We find that the topic distributions of conservative, moderate, and liberal users are substantively and statistically different. We further find that conservatives are more likely to spread some form of misinformation and that liberals are more likely to express support for Ukraine. Our paper concludes with a discussion of the implications of our findings for the conduct of U.S. foreign policy.
-</details>
-<br>
 
 **Gechun Lin**. "Using Generative AI to Extract Emphasis Frames." Draft available upon request. [[poster](/files/PolMeth2024_GPT.pdf)] 
 <details>
