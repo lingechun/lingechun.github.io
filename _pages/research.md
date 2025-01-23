@@ -35,7 +35,7 @@ Though ideological differences have long been a ubiquitous feature of American p
 
 ## Working Papers
 
-**Gechun Lin** and Benjamin Noble. "In Control but Incoherent: Institutional Power and Message Discipline in Congress." [[draft](/files/In Control but Incoherent.pdf)]
+**Gechun Lin** and Benjamin Noble. "In Control but Incoherent: Institutional Power and Message Discipline in Congress." [[draft](/files/Congressional_Similarity.pdf)]
 
 <details>
 <summary><b>Abstract</b></summary>
