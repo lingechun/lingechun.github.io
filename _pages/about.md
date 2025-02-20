@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. candidate in Political Science at Washington University in St. Louis. My educational background is highly interdisciplinary, encompassing degrees in law, political science, and statistics. I am currently on the 2024 Fall academic job market.
+Hello, I am a Ph.D. candidate in Political Science at Washington University in St. Louis. My educational background is highly interdisciplinary, encompassing degrees in law, political science, and statistics. I will be an Assistant Professor of Political Science at Texas A&M in Fall 2025.
 
 My job market paper has been accepted by the *American Journal of Political Science*. Additionally, my collaborative projects have been published as a book chapter in the *Oxford Handbook of Methodological Pluralism in Political Science* and accepted by the *Journal of Theoretical Politics* and the *Humanities and Social Science Communications*. For more details, please refer to my CV <a href="https://lingechun.github.io/files/CV_GL.pdf">here</a>.
 
