@@ -10,14 +10,14 @@ redirect_from:
 
 **Gechun Lin** and Christopher Lucas (2023). "An Introduction to Neural Networks for the Social Sciences." *Oxford Handbook of Methodological Pluralism in Political Science*. Oxford University Press [[publisher site](https://academic.oup.com/edited-volume/52557/chapter-abstract/431321963?redirectedFrom=fulltext)]
  
-**Gechun Lin**. "Using Cross-Encoders to Measure the Similarity of Short Texts in Political Science." Accept pending replication at the *American Journal of Political Science*. [[draft](/files/Cross_Encoder_manuscript.pdf)] [[appendix](/files/Cross_Encoder_SI.pdf)]
+**Gechun Lin**. 2025. "Using Cross-Encoders to Measure the Similarity of Short Texts in Political Science." *American Journal of Political Science*. [[publisher site](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12956?casa_token=F4sRQ2PQHTIAAAAA%3AOGKH5Qpfn4mC-Od8GzWlHSKODJZOWCIYADMYJQiGXv2-OcBBPDN9yRAe1FxjJIySrC7IPLN1frccCQ)][[draft](/files/Cross_Encoder_manuscript.pdf)] [[appendix](/files/Cross_Encoder_SI.pdf)]
 <details>
 <summary><b>Abstract</b></summary>
 In many settings, scholars wish to estimate the similarity of political texts. However, the most commonly used methods in political science struggle to identify when two texts convey the same meaning as they rely too heavily on identifying words that appear in both documents. This limitation is especially salient when the underlying documents are short, an increasingly prevalent form of textual data in modern political research. Building on recent advances in computer science, I introduce to political science cross-encoders for precise estimates of semantic similarity in short texts. Scholars can use either off-the-shelf versions or build a customized model. I illustrate this approach in three examples applied to social messages generated in a telephone game, news headlines about US Supreme Court decisions, and Facebook posts from members of Congress. I show that cross-encoders, which utilize pair-level embeddings, offer superior performance across tasks relative to word-based and sentence-level embedding approaches.
 </details>
 <br>
 
-Dahjin Kim, **Gechun Lin**, and Keith Schnakenberg. "Informative Campaigns, Overpromising, and Policy Bargaining." Accept at the *Journal of Theoretical Politics*. [[draft](/files/credulity.pdf)]
+Dahjin Kim, **Gechun Lin**, and Keith Schnakenberg. 2024. "Informative Campaigns, Overpromising, and Policy Bargaining." *Journal of Theoretical Politics*. [[publisher site](https://journals.sagepub.com/doi/full/10.1177/09516298241268751?casa_token=2VrUaYHtZJsAAAAA%3AAkI8UsU_sHsy2IcNXp-qMmuhnAhW4AB5fVQtggNhClUCg-uVb769U-VLW9L9uyb-SKL2GUGEV-_1)][[draft](/files/credulity.pdf)]
 
 <details>
 <summary><b>Abstract</b></summary>
@@ -25,7 +25,7 @@ What is the relationship between policy positions taken in campaigns and those p
 </details>
 <br>
 
-Dahjin Kim, **Gechun Lin**, and William G. Nomikos. "American Twitter users have ideological differences of opinion about the War in Ukraine." Accepted at the *Humanities and Social Sciences Communications*. [[draft](/files/Ukraine_Public_Opinion_manuscript.pdf)] [[appendix](/files/Ukraine_Public_Opinion_SI.pdf)]
+Dahjin Kim, **Gechun Lin**, and William G. Nomikos. 2025. "American Twitter users have ideological differences of opinion about the War in Ukraine." *Humanities and Social Sciences Communications*. [[draft](/files/Ukraine_Public_Opinion_manuscript.pdf)] [[appendix](/files/Ukraine_Public_Opinion_SI.pdf)]
 
 <details>
 <summary><b>Abstract</b></summary>
