@@ -25,7 +25,7 @@ What is the relationship between policy positions taken in campaigns and those p
 </details>
 <br>
 
-Dahjin Kim, **Gechun Lin**, and William G. Nomikos. 2025. "American Twitter users have ideological differences of opinion about the War in Ukraine." *Humanities and Social Sciences Communications*. [[draft](/files/Ukraine_Public_Opinion_manuscript.pdf)] [[appendix](/files/Ukraine_Public_Opinion_SI.pdf)]
+Dahjin Kim, **Gechun Lin**, and William G. Nomikos. 2025. "American Twitter users have ideological differences of opinion about the War in Ukraine." *Humanities and Social Sciences Communications*. [[publisher site](https://www.nature.com/articles/s41599-024-04304-7)][[draft](/files/Ukraine_Public_Opinion_manuscript.pdf)] [[appendix](/files/Ukraine_Public_Opinion_SI.pdf)]
 
 <details>
 <summary><b>Abstract</b></summary>
