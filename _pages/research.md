@@ -45,17 +45,14 @@ Parties build electorally beneficial brands by staying “on message.” But whe
 
 
 
-**Gechun Lin**. "Using Generative AI to Extract Emphasis Frames." Draft available upon request. [[poster](/files/PolMeth2024_GPT.pdf)] 
+**Gechun Lin**. "Evidence-Grounded Frame Analysis: A Transparent and Verifiable LLM Framework." Draft available upon request. 
 <details>
 <summary><b>Abstract</b></summary>
-Framing analysis is at the core of studies in political communication. The current literature relies mainly on topic modeling and dictionary approaches to identify frames from texts. However, users cannot control desired topic outputs in unsupervised models, such as LDA and STM; moreover, the resulting groups of keywords lack semantic contexts for exploring how things are framed. Dictionary approaches also have limitations: existing ones would miss novel frames in evolving discourse, and creating new dictionaries is resource-intensive. Instead, I propose a new method that follows three steps—quote, summarize, and name—to extract frames using generative AI. I apply this method to re-examine the framing of smoking ban policy at the issue-definition stage during its diffusion across 49 US states. Compared to traditional topic models, the new method produces more semantically distinctive and coherent high-level frame features for identifying different frames. Empirically, this results in the discovery of more nuanced frames and their coexisting patterns.
+Frame analysis is central to studies in political communication, yet existing methods struggle to identify emerging frames from evolving discourses efficiently. Supervised approaches are labor-intensive and time-consuming. Unsupervised approaches such as topic models and dictionaries rely on clusters of keywords that lack semantic context to capture nuanced framings. Leveraging the extraordinary capability of large language models in information extraction and summarization, this paper presents a novel method that utilizes a chain-of-thoughts prompting and human-in-the-loop algorithm to effectively identify frames without the need for extensive training or annotations. We apply this method to re-examine two corpora---the US state news articles about smoking-free policy and the United Nations Security Council resolutions. The human validation results show that our proposed LLM-based frame analysis outperforms traditional topic models and dictionary-based approaches. The downstream analysis also uncovers new empirical findings.
 </details>
 <br>
 
 
-## Work in Progress
-
-**Gechun Lin**. "Media Framing of SCOTUS Decisions: do split decisions facilitate politicized coverage?"
 
 
 
