@@ -4,6 +4,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Independent Instructor, Texas A&M University
+*Undergraduate Level*
+<br>
+- National Judicial Politics, Fall 2025
+<br>
+
+
+*Graduate Level*
+<br>
+- Causal Inference, Fall 2025
+<br>
 
 ## Teaching Assistant, Washington University in St. Louis
 
@@ -18,3 +29,4 @@ author_profile: true
 *Graduate Level*
 <br>
 - Quantitative Political Methodology II (Professor Jacob Montgomery), Fall 2021
+<br>
